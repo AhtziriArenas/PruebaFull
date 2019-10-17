@@ -29,3 +29,5 @@ public class Calculo {
     public void getDigito(){
         return digito;
     }
+    //eso parece
+    
