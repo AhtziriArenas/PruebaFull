@@ -19,5 +19,5 @@ public class Calculo {
     }
     
     public int getResultado() {
-        return resultado;
+        return resultado;//Es un buen resultado
     }
