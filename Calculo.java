@@ -22,3 +22,10 @@ public class Calculo {
         return resultado;//Es un buen resultado
     } 
     // chicos comenten si sis pudieron ver este comentario !!
+    public void getExponente(){
+        return exponente;
+
+    }
+    public void getDigito(){
+        return digito;
+    }
