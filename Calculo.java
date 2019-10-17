@@ -20,4 +20,5 @@ public class Calculo {
     
     public int getResultado() {
         return resultado;//Es un buen resultado
-    }
+    } 
+    // chicos comenten si sis pudieron ver este comentario !!
