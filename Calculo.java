@@ -61,8 +61,12 @@ public class Calculo {
         return digito;
     }
 >>>>>>> master
+<<<<<<< Updated upstream
 
   int decimal(int){
       for(1++)
-
+  //aqui mostrar operacion 
   }
+=======
+//visto
+>>>>>>> Stashed changes
