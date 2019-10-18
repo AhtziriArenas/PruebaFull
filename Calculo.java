@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 public class Calculo {
    int digito; 
-   int resultado;
+   int resultado; 
    int exponente;
    String numero;
    
@@ -124,6 +124,12 @@ public class Calculo {
   public String setOperacion() {
         return numero;
     }
+
+    //Orlando
+  public String setOperacion() {
+        return numero;
+    }
+
 
 
 >>>>>>> Stashed changes
