@@ -25,8 +25,12 @@ public class Calculo {
     //Si lo pude ver
     public void getExponente(){
         return exponente;
+<<<<<<< Updated upstream
 //Get y set digito
-//Si tienes un dulce me puedes dar uno?
+=======
+//Get y set digito...
+>>>>>>> Stashed changes
+//Si tienes un dulce me puedes dar uno?....plox..........
     }
     public void getDigito(){
         return digito;
