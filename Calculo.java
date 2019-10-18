@@ -30,7 +30,6 @@ public class Calculo {
 =======
 //Get y set digito...
 >>>>>>> Stashed changes
-//Si tienes un dulce me puedes dar uno?....plox..........
     }
     public void getDigito(){
         return digito;
