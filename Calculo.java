@@ -66,3 +66,9 @@ public class Calculo {
       for(1++)
 
   }
+    /*metodos set*/
+
+    public String setNumero() {
+        return numero;
+    }
+
