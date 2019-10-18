@@ -7,7 +7,7 @@ public class Calculo {
    public Calculo(){ // contructores sin parametros 
     
     }
-             public Calculo(String numero){ // construcor con un parametro, poner el numero binario
+             public Calculo(String numero){ // constructor con un parametro, poner el numero binario
              this.numero = numero;
              
              }
@@ -21,3 +21,4 @@ public class Calculo {
     public int getResultado() {
         return resultado;
     }
+    // REVISADO KARLA
