@@ -115,4 +115,8 @@ public class Calculo {
     public void getDigito(Digito=1){
       return digito
     }
+//Nadia
+    public String set() {
+        return numero;
+    }
 >>>>>>> Stashed changes
