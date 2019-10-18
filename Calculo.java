@@ -26,6 +26,7 @@ public class Calculo {
     public void getExponente(){
         return exponente;
 //Get y set digito
+//Si tienes un dulce me puedes dar uno?
     }
     public void getDigito(){
         return digito;
