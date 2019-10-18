@@ -119,4 +119,11 @@ public class Calculo {
     public String set() {
         return numero;
     }
+
+//Nadia2
+  public String setOperacion() {
+        return numero;
+    }
+
+
 >>>>>>> Stashed changes
