@@ -231,3 +231,11 @@ public class Matriz4x4 {
     }
     
 }
+//modificacion Diana
+public static double media(int[][] matriz){
+	double suma = 0 ;
+	 for (int i = 1; i < matriz.length; i ++ ) {
+	 	//bla bla
+	 	
+	 }
+}
