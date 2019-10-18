@@ -61,3 +61,8 @@ public class Calculo {
         return digito;
     }
 >>>>>>> master
+
+  int decimal(int){
+      for(1++)
+
+  }
